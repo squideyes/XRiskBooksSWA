@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trader\\Desktop\\XRiskBooksSWA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7856AC9-FF40-45ED-8132-E171BDC4A63F}|XRiskBooksSWA\\XRiskBooksSWA.csproj|c:\\users\\trader\\desktop\\xriskbooksswa\\xriskbooksswa\\wwwroot\\icon-192.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{B7856AC9-FF40-45ED-8132-E171BDC4A63F}|XRiskBooksSWA\\XRiskBooksSWA.csproj|solutionrelative:xriskbooksswa\\wwwroot\\icon-192.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7856AC9-FF40-45ED-8132-E171BDC4A63F}|XRiskBooksSWA\\XRiskBooksSWA.csproj|c:\\users\\trader\\desktop\\xriskbooksswa\\xriskbooksswa\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7856AC9-FF40-45ED-8132-E171BDC4A63F}|XRiskBooksSWA\\XRiskBooksSWA.csproj|solutionrelative:xriskbooksswa\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7856AC9-FF40-45ED-8132-E171BDC4A63F}|XRiskBooksSWA\\XRiskBooksSWA.csproj|c:\\users\\trader\\desktop\\xriskbooksswa\\xriskbooksswa\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7856AC9-FF40-45ED-8132-E171BDC4A63F}|XRiskBooksSWA\\XRiskBooksSWA.csproj|solutionrelative:xriskbooksswa\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7856AC9-FF40-45ED-8132-E171BDC4A63F}|XRiskBooksSWA\\XRiskBooksSWA.csproj|c:\\users\\trader\\desktop\\xriskbooksswa\\xriskbooksswa\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7856AC9-FF40-45ED-8132-E171BDC4A63F}|XRiskBooksSWA\\XRiskBooksSWA.csproj|solutionrelative:xriskbooksswa\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7856AC9-FF40-45ED-8132-E171BDC4A63F}|XRiskBooksSWA\\XRiskBooksSWA.csproj|c:\\users\\trader\\desktop\\xriskbooksswa\\xriskbooksswa\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7856AC9-FF40-45ED-8132-E171BDC4A63F}|XRiskBooksSWA\\XRiskBooksSWA.csproj|solutionrelative:xriskbooksswa\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7856AC9-FF40-45ED-8132-E171BDC4A63F}|XRiskBooksSWA\\XRiskBooksSWA.csproj|c:\\users\\trader\\desktop\\xriskbooksswa\\xriskbooksswa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7856AC9-FF40-45ED-8132-E171BDC4A63F}|XRiskBooksSWA\\XRiskBooksSWA.csproj|solutionrelative:xriskbooksswa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7856AC9-FF40-45ED-8132-E171BDC4A63F}|XRiskBooksSWA\\XRiskBooksSWA.csproj|c:\\users\\trader\\desktop\\xriskbooksswa\\xriskbooksswa\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B7856AC9-FF40-45ED-8132-E171BDC4A63F}|XRiskBooksSWA\\XRiskBooksSWA.csproj|solutionrelative:xriskbooksswa\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "icon-192.png",
+              "DocumentMoniker": "C:\\Users\\trader\\Desktop\\XRiskBooksSWA\\XRiskBooksSWA\\wwwroot\\icon-192.png",
+              "RelativeDocumentMoniker": "XRiskBooksSWA\\wwwroot\\icon-192.png",
+              "ToolTip": "C:\\Users\\trader\\Desktop\\XRiskBooksSWA\\XRiskBooksSWA\\wwwroot\\icon-192.png",
+              "RelativeToolTip": "XRiskBooksSWA\\wwwroot\\icon-192.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-10T03:23:25.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\trader\\Desktop\\XRiskBooksSWA\\XRiskBooksSWA\\Program.cs",
+              "RelativeDocumentMoniker": "XRiskBooksSWA\\Program.cs",
+              "ToolTip": "C:\\Users\\trader\\Desktop\\XRiskBooksSWA\\XRiskBooksSWA\\Program.cs",
+              "RelativeToolTip": "XRiskBooksSWA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T03:23:00.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\trader\\Desktop\\XRiskBooksSWA\\XRiskBooksSWA\\App.razor",
+              "RelativeDocumentMoniker": "XRiskBooksSWA\\App.razor",
+              "ToolTip": "C:\\Users\\trader\\Desktop\\XRiskBooksSWA\\XRiskBooksSWA\\App.razor",
+              "RelativeToolTip": "XRiskBooksSWA\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T03:22:57.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\trader\\Desktop\\XRiskBooksSWA\\XRiskBooksSWA\\_Imports.razor",
+              "RelativeDocumentMoniker": "XRiskBooksSWA\\_Imports.razor",
+              "ToolTip": "C:\\Users\\trader\\Desktop\\XRiskBooksSWA\\XRiskBooksSWA\\_Imports.razor",
+              "RelativeToolTip": "XRiskBooksSWA\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T03:22:54.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\trader\\Desktop\\XRiskBooksSWA\\XRiskBooksSWA\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "XRiskBooksSWA\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\trader\\Desktop\\XRiskBooksSWA\\XRiskBooksSWA\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "XRiskBooksSWA\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-10T03:21:31.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\trader\\Desktop\\XRiskBooksSWA\\XRiskBooksSWA\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "XRiskBooksSWA\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\trader\\Desktop\\XRiskBooksSWA\\XRiskBooksSWA\\Pages\\Home.razor",
+              "RelativeToolTip": "XRiskBooksSWA\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T03:20:54.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\trader\\Desktop\\XRiskBooksSWA\\XRiskBooksSWA\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "XRiskBooksSWA\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\trader\\Desktop\\XRiskBooksSWA\\XRiskBooksSWA\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "XRiskBooksSWA\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T03:19:52.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
